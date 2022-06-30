@@ -1,11 +1,11 @@
 loginbtnevent=()=>{
-    employename=(document.getElementById("employename").value)
-    password=(document.getElementById("password").value)
-    console.log(employename)
-    alert(employename)
+    employename1=(document.getElementById("employename1").value)
+    password1=(document.getElementById("password1").value)
+    console.log(employename1)
+    alert(employename1)
 
-    console.log(password)
-    alert(password)
+    console.log(password1)
+    alert(password1)
 }
 regbtnevent=()=>{
     employename=(document.getElementById("employeename").value)
